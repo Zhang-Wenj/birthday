@@ -26,15 +26,15 @@ var config = {
      */
     imgs: {
         "心爱的小可爱": "./imgs/xiaokeai.png",
-        "11月1号是你的生日": "./imgs/xin.jpg",
-        "这是我们在一起的": "./imgs/wen.jpg",
-        "第三个生日了哦": "./imgs/tong.jpg",
-        "去年的生日": "./imgs/tong.jpg",
-        "还记得是在学校里过的": "./imgs/wen.jpg",
-        "今年要吃好的喽哦": "./imgs/xin.jpg",
-        "要把我家可爱猪猪喂饱饱": "./imgs/xin.jpg",
-        "然后抱走": "./imgs/qi.jpg",
-        "YAMI~~": "./imgs/ku.jpg",
+        "11月1号是你的生日": "./imgs/xin.png",
+        "这是我们在一起的": "./imgs/wen.png",
+        "第三个生日了哦": "./imgs/tong.png",
+        "去年的生日": "./imgs/xiaokeai.png",
+        "还记得是在学校里过的": "./imgs/qi.png",
+        "今年要吃好的喽哦": "./imgs/wen.png",
+        "要把我家可爱猪猪喂饱饱": "./imgs/tong.png",
+        "然后抱走": "./imgs/zhang.png",
+        "YAMI~~": "./imgs/ku.png",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
